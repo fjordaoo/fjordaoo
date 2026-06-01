@@ -1,16 +1,24 @@
-## Hi there 👋
+# Olá, eu sou Felipe Jordão
 
-<!--
-**fjordaoo/fjordaoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Ciência de Dados e Inteligência Artificial na PUC-Campinas
 
-Here are some ideas to get you started:
+📊 Interesses:
+- Ciência de Dados
+- Machine Learning
+- Inteligência Artificial
+- Análise de Dados
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Tecnologias:
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scipy
+- Sklearn
+- Machine Learning
+
+🚀 Atualmente:
+- Desenvolvendo projetos acadêmicos
+- Estudando Data Science e IA
+- Construindo meu portfólio
